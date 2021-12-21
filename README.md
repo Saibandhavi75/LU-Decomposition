@@ -36,7 +36,7 @@ print(L)
 print(U)
 
 ## Output:
-![lu decomposition]()
+![lu decomposition](https://github.com/Saibandhavi75/LU-Decomposition/blob/main/2021-12-21.png?raw=true)
 
 
 ## Result:
@@ -74,4 +74,7 @@ X=lu_solve((lu, piv), B)
 print(X)
 
 ## Output:
-![lu decomposition]()
+![lu decomposition](https://github.com/Saibandhavi75/LU-Decomposition/blob/main/2021-12-21%20(1).png?raw=true)
+
+## Result:
+Thus the program th find LU Decomposition of a matrix is written and verified using python programming.

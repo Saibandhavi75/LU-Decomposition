@@ -21,7 +21,7 @@ Developed by:A.Sai Bandhavi
 RegisterNumber:21005573 
 */
 ```
-To print L and U matrix
+# To print L and U matrix
 
 import numpy as np
 
